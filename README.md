@@ -26,7 +26,7 @@ To set up the environment and run the code, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/serverless-federated-learning-spectrum-sensing.git
+   git clone https://github.com/ocatak/serverless-federated-learning-spectrum-sensing.git
    cd serverless-federated-learning-spectrum-sensing
    ```
 
