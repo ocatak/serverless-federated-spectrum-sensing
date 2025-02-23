@@ -1,6 +1,6 @@
 # Serverless Federated Learning for Spectrum Sensing
 
-This repository contains the code and resources for the paper titled **"Serverless Federated Learning for Spectrum Sensing"** published in [Journal Name](https://www.sciencedirect.com/science/article/abs/pii/S1874490725000370). The project focuses on implementing a decentralized federated learning framework for spectrum sensing tasks, leveraging a U-Net architecture for segmentation and classification of spectrograms.
+This repository contains the code and resources for the paper titled **"Serverless Federated Learning for Spectrum Sensing"** published in [Elsevier - Physical Communication](https://www.sciencedirect.com/science/article/abs/pii/S1874490725000370). The project focuses on implementing a decentralized federated learning framework for spectrum sensing tasks, leveraging a U-Net architecture for segmentation and classification of spectrograms.
 
 ## Table of Contents
 - [Introduction](#introduction)
