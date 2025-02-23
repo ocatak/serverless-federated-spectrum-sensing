@@ -94,6 +94,4 @@ abstract = {Federated learning (FL) has gained more popularity due to the increa
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-- You can also include a `requirements.txt` file listing all the Python dependencies needed to run the code.
 
-Let me know if you need further customization!
